@@ -25,3 +25,4 @@ Run `ionic serve` for a dev server. Navigate to `http://localhost:8100/`. The ap
 
 [![Free Tutorial - Building Movie Streaming Cross Platform UI Design | #Ionic Framework & #Angular](https://github.com/itsmearunsank/streaming-box/releases/download/screenshot_preview/search_page.png)](https://www.youtube.com/watch?v=npdeG0ZDewY "Free Tutorial - Building Movie Streaming Cross Platform UI Design | #Ionic Framework & #Angular")
 # newrepo
+# newrepo
